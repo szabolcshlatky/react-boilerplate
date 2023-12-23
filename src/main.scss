@@ -1,0 +1,10 @@
+@use 'indexStyles/mediaQueries' as *;
+@use 'indexStyles/reset' as *;
+@use 'indexStyles/globals' as *;
+@use 'indexStyles/buttons' as *;
+@use 'indexStyles/brand' as *;
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/assets/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
