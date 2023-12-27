@@ -30,7 +30,11 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": [
-    "src"
+    "src",
+    // "dist/scripts/bundle.js"
+  ],
+  "exclude": [
+    "node_modules"
   ],
   "references": [
     {
